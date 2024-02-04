@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-export default function Counter({ value }: { value: string }) {
+export default function Counter({ value }: { value?: string }) {
     const [contador, setContador] = useState(0);
 
     return (
@@ -32,7 +32,7 @@ export default function Counter({ value }: { value: string }) {
 
             {/* Render the counter component with getByDisplayValue */}
 
-            <input type="text" value={value} />;
+            <input type="text" value={value} readOnly />;
         </div>
     );
 }

@@ -8,7 +8,6 @@ test("Render the counter component with toBeVisible", () => {
     const incrementButton = screen.getByText("Increment");
     fireEvent.click(incrementButton);
     const numberElement = screen.getByText("Number: 1");
-    // @ts-ignore
     expect(numberElement).toBeVisible;
 });
 

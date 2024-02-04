@@ -1,3 +1,5 @@
+import "@testing-library/jest-dom"
+
 export interface ActivityType {
   id: number;
   name: string;

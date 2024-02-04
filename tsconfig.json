@@ -11,4 +11,5 @@
         ],
         "jsx": "react-jsx"
     },
+    "types": ["./types"]
 }

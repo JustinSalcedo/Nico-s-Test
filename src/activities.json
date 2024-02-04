@@ -1,0 +1,34 @@
+{
+  "activities": [
+    {
+      "name": "Meeting with Team",
+      "description": "Discuss project updates and team progress.",
+      "startTime": "2024-01-16T09:00:00",
+      "endTime": "2024-01-16T10:00:00"
+    },
+    {
+      "name": "Coding Session",
+      "description": "Focused coding session for project implementation.",
+      "startTime": "2024-01-16T10:30:00",
+      "endTime": "2024-01-16T12:30:00"
+    },
+    {
+      "name": "Lunch Break",
+      "description": "Take a break and have lunch.",
+      "startTime": "2024-01-16T12:30:00",
+      "endTime": "2024-01-16T13:30:00"
+    },
+    {
+      "name": "Project Review",
+      "description": "Review the current status of the ongoing project.",
+      "startTime": "2024-01-16T14:00:00",
+      "endTime": "2024-01-16T15:30:00"
+    },
+    {
+      "name": "Training Session",
+      "description": "Attend a training session for skill enhancement.",
+      "startTime": "2024-01-16T16:00:00",
+      "endTime": "2024-01-16T17:30:00"
+    }
+  ]
+}
